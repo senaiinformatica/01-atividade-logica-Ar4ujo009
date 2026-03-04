@@ -16,5 +16,12 @@ TRAJETO DO WOLNY PARA O SENAI
 -esperamos o ônibus azul da linha de são caetano 102
 -passamos na catraca após pagar a condução com o motorista
 -esperamos 37 pontos de ônibus
--então vamos 
+-então vamos descer no ponto final dele
+-após isso vamos virar a direita
+-ir reto até a estação de trem
+-então entraremos no túnel
+- desço as escadas e vou reto e subo novamente
+-vou reto na rua e viro a esquerda
+-então eu viro a esquerda e entro no senai.
+
 
